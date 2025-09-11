@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Catter_Companion_server/static/css/main.f093c215.css",
+    "main.js": "/Catter_Companion_server/static/js/main.9ca6a956.js",
+    "index.html": "/Catter_Companion_server/index.html",
+    "main.f093c215.css.map": "/Catter_Companion_server/static/css/main.f093c215.css.map",
+    "main.9ca6a956.js.map": "/Catter_Companion_server/static/js/main.9ca6a956.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f093c215.css",
+    "static/js/main.9ca6a956.js"
+  ]
+}
