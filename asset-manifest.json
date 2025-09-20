@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Career_Companion/static/css/main.f093c215.css",
-    "main.js": "/Career_Companion/static/js/main.96f70c7b.js",
-    "index.html": "/Career_Companion/index.html",
-    "main.f093c215.css.map": "/Career_Companion/static/css/main.f093c215.css.map",
-    "main.96f70c7b.js.map": "/Career_Companion/static/js/main.96f70c7b.js.map"
+    "main.css": "/pavan-progamming/Career_Companion.git/static/css/main.f093c215.css",
+    "main.js": "/pavan-progamming/Career_Companion.git/static/js/main.d0fc0a98.js",
+    "index.html": "/pavan-progamming/Career_Companion.git/index.html",
+    "main.f093c215.css.map": "/pavan-progamming/Career_Companion.git/static/css/main.f093c215.css.map",
+    "main.d0fc0a98.js.map": "/pavan-progamming/Career_Companion.git/static/js/main.d0fc0a98.js.map"
   },
   "entrypoints": [
     "static/css/main.f093c215.css",
-    "static/js/main.96f70c7b.js"
+    "static/js/main.d0fc0a98.js"
   ]
 }
