@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Career_Companion/static/css/main.f093c215.css",
-    "main.js": "/Career_Companion/static/js/main.eabae4c7.js",
+    "main.js": "/Career_Companion/static/js/main.96f70c7b.js",
     "index.html": "/Career_Companion/index.html",
     "main.f093c215.css.map": "/Career_Companion/static/css/main.f093c215.css.map",
-    "main.eabae4c7.js.map": "/Career_Companion/static/js/main.eabae4c7.js.map"
+    "main.96f70c7b.js.map": "/Career_Companion/static/js/main.96f70c7b.js.map"
   },
   "entrypoints": [
     "static/css/main.f093c215.css",
-    "static/js/main.eabae4c7.js"
+    "static/js/main.96f70c7b.js"
   ]
 }
