@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // The live, public base URL for your deployed backend API
-export const API_BASE_URL = 'https://career-companion-server.onrender.com';
+export const API_BASE_URL = 'https://career-companion-server.onrender.com/api';
 
 // Create an Axios instance that will use this base URL for all requests
 const api = axios.create({
