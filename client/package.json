@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pavan-programming.github.io/Career_Companion",
+  "homepage": "https://github.com/pavan-progamming/Career_Companion.git",
   "dependencies": {
     "axios": "^1.7.2",
     "bootstrap": "^5.3.3",
@@ -41,6 +41,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.3.0"
   }
 }
